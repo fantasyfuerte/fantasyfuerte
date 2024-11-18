@@ -4,9 +4,14 @@ I'm a frontend developer passionate about building interactive and user-friendly
 
 ## 🚀 Technologies & Tools
 
+- **Languages:**
+  - TypeScript
+  - Javascript
+  - Python
+
 - **Frontend:**
   - React
-  - TypeScript
+  - ViteJS
   - React Native
   - Tailwind CSS
   - NextJS (currently learning!)
@@ -24,6 +29,7 @@ I'm a frontend developer passionate about building interactive and user-friendly
 
 - **NextJS:** Improving my skills in frameworks for SSR (Server-Side Rendering) and SSG (Static Site Generation).
 - **Deployments:** Learning how to efficiently deploy applications.
+- **Motion:** Learning how to animate components creating awesome web experiences.
 
 ## 👨‍💻 Featured Projects
 
