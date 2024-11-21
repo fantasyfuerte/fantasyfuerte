@@ -10,11 +10,11 @@ I'm a frontend developer passionate about building interactive and user-friendly
   - Python
 
 - **Frontend:**
+  - NextJS (currently learning!)
   - React
   - ViteJS
   - React Native
   - Tailwind CSS
-  - NextJS (currently learning!)
 
 - **Backend (basic knowledge):**
   - NodeJS
