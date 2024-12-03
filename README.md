@@ -10,10 +10,13 @@ I'm a frontend developer passionate about building interactive and user-friendly
   - Python
 
 - **Frontend:**
-  - NextJS (currently learning!)
+  - NextJS
   - React
   - ViteJS
   - React Native
+  - CSS
+  - Expo (currently learning!)
+  - Figma
   - Tailwind CSS
   - Motion
 
@@ -28,14 +31,14 @@ I'm a frontend developer passionate about building interactive and user-friendly
 
 ## 🌱 Currently Learning
 
-- **NextJS:** Improving my skills in frameworks for SSR (Server-Side Rendering) and SSG (Static Site Generation).
-- **Deployments:** Learning how to efficiently deploy applications.
+- **Figma:** Learning it to improve the UX of my web apps.
 
 ## 👨‍💻 Featured Projects
 
 Here are some of my most recent projects where I’ve used the technologies I specialize in:
 
-- [**DO-IT-PROJECT**](https://github.com/fantasyfuerte/DO-IT-PROJECT): A productivity app in development using React + TypeScript + Tailwind.
+- [**DO-IT-PROJECT**](https://github.com/fantasyfuerte/DO-IT-PROJECT): A productivity app using React + TypeScript + TailwindCSS + Motion.
+
 
 ## 📬 Contact Me
 
