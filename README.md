@@ -15,8 +15,8 @@ I'm a frontend developer passionate about building interactive and user-friendly
   - ViteJS
   - React Native
   - CSS
-  - Expo (currently learning!)
-  - Figma
+  - Expo
+  - Figma (currently learning!)
   - Tailwind CSS
   - Motion
 
