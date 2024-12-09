@@ -1,6 +1,6 @@
 # Hi, I'm Leandro Fuerte 👋
 
-I'm a frontend developer passionate about building interactive and user-friendly interfaces. My specialization is in **React** and **TypeScript**, but I also have experience with technologies like **React Native** and tools such as **Tailwind CSS** to create modern and responsive designs.
+I'm a frontend developer and UX/UI designer passionate about building interactive and user-friendly interfaces. 
 
 ## 🚀 Technologies & Tools
 
@@ -31,7 +31,7 @@ I'm a frontend developer passionate about building interactive and user-friendly
 
 ## 🌱 Currently Learning
 
-- **Figma:** Learning it to improve the UX of my web apps.
+- **Figma:** Learning it to improve the UX/UI of my web apps.
 
 ## 👨‍💻 Featured Projects
 
