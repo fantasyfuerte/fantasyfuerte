@@ -37,7 +37,7 @@ I'm a frontend developer and UX/UI designer passionate about building interactiv
 
 Here are some of my most recent projects where I’ve used the technologies I specialize in:
 
-- [**Pocket Ledger**](https://github.com/fantasyfuerte/DO-IT-PROJECT): An accountiny app using NextJS + TypeScript + TailwindCSS + Motion + VictoryPieChart.
+- [**Pocket Ledger**](https://github.com/fantasyfuerte/pocket-ledger): An accountiny app using NextJS + TypeScript + TailwindCSS + Motion + VictoryPieChart.
 
 - [**DO-IT-PROJECT**](https://github.com/fantasyfuerte/DO-IT-PROJECT): A productivity app using React + TypeScript + TailwindCSS + Motion.
 
