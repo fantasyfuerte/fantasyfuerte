@@ -17,13 +17,14 @@ I'm a frontend developer and UX/UI designer passionate about building interactiv
   - CSS
   - Expo
   - Figma (currently learning!)
-  - Tailwind CSS
+  - TailwindCSS
   - Motion
 
 - **Backend (basic knowledge):**
   - NodeJS
   - ExpressJS
   - SQL
+  - PrismaORM
 
 - **Other:**
   - Git & GitHub
@@ -51,7 +52,7 @@ You can find me on:
 
 ---
 
-_Crafting solutions, pixel by pixel._
+_Crafting solutions, line by line._
 
 ## Thanks for visiting my profile! 👨‍💻✨
 
