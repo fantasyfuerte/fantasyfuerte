@@ -54,5 +54,5 @@ You can find me on:
 
 _Crafting solutions, line by line._
 
-## Thanks for visiting my profile! 👨‍💻✨
+## Thanks for visiting my profile! 👨‍💻
 
