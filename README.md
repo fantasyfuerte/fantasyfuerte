@@ -36,7 +36,9 @@ I'm a frontend developer and UX/UI designer passionate about building interactiv
 
 ## 👨‍💻 Featured Projects
 
-Here are some of my most recent projects where I’ve used the technologies I specialize in:
+Here are some of my most recent projects where I’ve used the technologies I specialize in (all demos are in the repositories):
+
+- [**My Portfolio**](https://github.com/fantasyfuerte/portfolio): A portfolio to show my developer skills, with NextJS + TailwindCSS + react-type-animation
 
 - [**Pocket Ledger**](https://github.com/fantasyfuerte/pocket-ledger): An accountiny app using NextJS + TypeScript + TailwindCSS + Motion + VictoryPieChart.
 
